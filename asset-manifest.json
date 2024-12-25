@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jarvispro/static/css/main.768f253d.css",
+    "main.js": "/jarvispro/static/js/main.03d00e3f.js",
+    "index.html": "/jarvispro/index.html",
+    "main.768f253d.css.map": "/jarvispro/static/css/main.768f253d.css.map",
+    "main.03d00e3f.js.map": "/jarvispro/static/js/main.03d00e3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768f253d.css",
+    "static/js/main.03d00e3f.js"
+  ]
+}
